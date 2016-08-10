@@ -284,6 +284,4 @@ public class N11TestSuites {
 	}
 }
 
-//logger mantýðý, hataya gereksiz loglar basmasý(tüm methodlara uygula)
-//OOP mantýðýnda dizayn et, ortak yapýlarý methodlara ayýr
-//GIT
+
